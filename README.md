@@ -151,4 +151,4 @@ The CLI did not expose Zenrows credit usage, so no credit figure is claimed.
 
 ## Related Article
 
-Article URL to be added after publication.
+[Build a Live Web Data Agent with Agno and Zenrows](https://www.zenrows.com/blog/live-web-data-agent-agno-zenrows)
